@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.86011c5b.chunk.css",
+    "main.js": "/hospital/static/js/main.d5f1fd0b.chunk.js",
+    "main.js.map": "/hospital/static/js/main.d5f1fd0b.chunk.js.map",
+    "runtime-main.js": "/hospital/static/js/runtime-main.606069fa.js",
+    "runtime-main.js.map": "/hospital/static/js/runtime-main.606069fa.js.map",
+    "static/css/2.b463f466.chunk.css": "/hospital/static/css/2.b463f466.chunk.css",
+    "static/js/2.4745a276.chunk.js": "/hospital/static/js/2.4745a276.chunk.js",
+    "static/js/2.4745a276.chunk.js.map": "/hospital/static/js/2.4745a276.chunk.js.map",
+    "static/js/3.1f01d64a.chunk.js": "/hospital/static/js/3.1f01d64a.chunk.js",
+    "static/js/3.1f01d64a.chunk.js.map": "/hospital/static/js/3.1f01d64a.chunk.js.map",
+    "index.html": "/hospital/index.html",
+    "static/css/2.b463f466.chunk.css.map": "/hospital/static/css/2.b463f466.chunk.css.map",
+    "static/css/main.86011c5b.chunk.css.map": "/hospital/static/css/main.86011c5b.chunk.css.map",
+    "static/js/2.4745a276.chunk.js.LICENSE.txt": "/hospital/static/js/2.4745a276.chunk.js.LICENSE.txt",
+    "static/media/Section5.css": "/hospital/static/media/tooth-whitening.88e481b9.png",
+    "static/media/Section2.css": "/hospital/static/media/image12.5b2dd6d4.png",
+    "static/media/header.css": "/hospital/static/media/image5.76129f90.gif",
+    "static/media/Section6.css": "/hospital/static/media/image20.1b46e0d9.png",
+    "static/media/Section7.css": "/hospital/static/media/image21.f4bdae8d.JPG",
+    "static/media/section4.css": "/hospital/static/media/image9.eb8a45d2.png",
+    "static/media/slick-theme.css": "/hospital/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606069fa.js",
+    "static/css/2.b463f466.chunk.css",
+    "static/js/2.4745a276.chunk.js",
+    "static/css/main.86011c5b.chunk.css",
+    "static/js/main.d5f1fd0b.chunk.js"
+  ]
+}
