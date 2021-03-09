@@ -1,0 +1,94 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Vast+Shadow&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'jura';
+}
+
+
+.navbar{	width:90%;margin: auto;border: none;
+
+	display: flex;justify-content: space-around;
+	margin: auto;margin-top: 30px;
+}
+.nav{
+	display: flex;justify-content: space-between;
+}
+.logo{
+	width: 80px;height: 90px;
+
+background: rgb(8,238,142);
+background: linear-gradient(90deg, rgba(8,238,142,0.5500829460915555) 22%, rgba(11,240,121,0.5388469910353757) 92%);
+	clip-path: polygon(17% 9%, 86% 10%, 24% 31%, 71% 26%, 33% 45%, 67% 41%, 39% 62%, 64% 60%, 47% 76%);
+}
+.text{color: black;
+	font-size: 40px;text-transform: uppercase;font-weight: 900;letter-spacing: 2px;
+}
+.left-nav{
+display: flex;justify-content: space-between;
+}
+ .navform ul{
+	display: flex;justify-content: space-between;
+	grid-gap: 45px;color: red;
+}
+.navform ul li{
+	list-style-type: none;
+}
+
+li a{
+	text-decoration: none;color: black;font-weight: 800;font-size:  30px;text-transform: uppercase;
+}
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 425px)
+{
+	.navform ul{
+		display: block;
+	}
+.menu{
+	background: white;border-radius: 5px;
+}
+.navbar{
+	display: flex;justify-content: space-between;width: 90%;
+	margin: auto;margin-top: 20px;position: relative;
+}
+.nav{
+	display: flex;justify-content: space-between;
+}
+
+.logo{
+	width: 40px;height: 50px;background: red;clip-path: polygon(17% 9%, 86% 10%, 24% 31%, 71% 26%, 33% 45%, 67% 41%, 39% 62%, 64% 60%, 47% 76%);
+
+background: rgb(8,238,142);
+background: linear-gradient(90deg, rgba(8,238,142,0.5500829460915555) 22%, rgba(11,240,121,0.5388469910353757) 92%);
+
+
+}
+.text{
+	font-size:27px;text-transform: uppercase;font-weight: 600;letter-spacing: 1px;
+}
+.left-nav{
+display: flex;justify-content: space-between;
+}
+li{
+	list-style-type: none;
+padding: 10px;
+}
+
+li a{
+	text-decoration: none;color: black;font-weight: 800;font-size:  15px;text-transform: uppercase;
+}
+
+}

@@ -1,0 +1,311 @@
+.heading1{
+	font-size: 15px;font-weight: 900;color:black;text-transform: uppercase;
+letter-spacing: 3px;transform: scaleY(1.3);
+}
+
+
+.heading2{
+font-size: 39px;font-weight: 900;letter-spacing: 1px;font-family: 'jura';
+word-spacing: 5px;	color: rgb(8,238,142)
+}
+
+
+.section5{
+	width: 90%;margin:0px auto;margin-top: 100px;
+	height: auto;
+}
+.insec5{width: 100%;display:grid;grid-template-rows: 40px 50px 400px 400px;grid-gap: 30px;height: auto;
+
+}
+.heading1 ,.heading2{
+	display: flex;justify-content: center;align-items: center;
+}
+.first-row,.last-row{
+	width: 100%;
+	height: 50%;
+display: flex;justify-content: space-around;grid-gap: 10px;
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8{
+	width: 240px ;border: 1px solid rgb(8,238,142);
+	height: 350px;position: relative;
+}
+
+
+
+.card1,.card2,.card3,.card4	,.card5,.card6,.card7,.card8{
+	display: grid;grid-template-rows: 100px 120px 100px ;
+	
+}
+
+ .img1{
+	background-image: url(../images/image15.png);
+	border-radius: 50%;position: relative;
+	height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;background-position: center;
+
+background-repeat: no-repeat;
+
+
+}
+.img2{
+	background-image: url(../images/dental-implant.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 25px;
+	background-size: contain;background-position: center;
+
+background-repeat: no-repeat;
+}
+
+.img3{
+	background-image: url(../images/image17.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+.img4{
+	background-image: url(../images/tooth-whitening.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+.img5{
+	background-image: url(../images/calculus.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+.img6{
+	background-image: url(../images/tooth-extraction.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+.img7{
+	background-image: url(../images/calculus.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+.img8{
+	background-image: url(../images/infection.png);
+	border-radius: 50%;
+	height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+
+.text2{
+	margin: auto;font-size: 20px;font-weight: 900;transform: scaleY(1.5);word-spacing:  4px;letter-spacing: 1px;
+
+}
+
+.txt1{font-size: 15px;
+	width: 90%;margin: auto;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 425px)
+{
+
+
+
+
+
+
+
+
+.heading1{
+	font-size: 15px;font-weight: 900;color:black;text-transform: uppercase;
+letter-spacing: 3px;transform: scaleY(1);
+}
+
+
+.heading2{
+font-size: 25px;font-weight: 900;letter-spacing: 1px;font-family: 'jura';
+word-spacing: 5px;	color: rgb(8,238,142);width: 95%;margin: auto;
+}
+
+
+.section5{
+	width: 100%;
+	height: auto;
+}
+.insec5{width: 90%;display: block;margin: auto;
+
+}
+.heading1 ,.heading2{text-align: center;
+}
+.first-row,.last-row{
+	width: 100%;
+	height: auto;
+display: flex;flex-direction: column;
+}
+.card1,.card2,.card3,.card4,.card5,.card6,.card7,.card8{
+	width: 200px ;border: 1px solid rgb(8,238,142);
+	height: 250px;position: relative;margin: auto;margin-top: 30px;
+
+display: block;
+
+}
+
+
+
+.card1,.card2,.card3,.card4	,.card5,.card6,.card7,.card8{
+	display: grid;grid-template-rows: 80px ;
+	
+}
+
+ .img1{
+	background-image: url(../images/image15.png);
+	border-radius: 50%;position: relative;
+	height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;background-position: center;
+
+background-repeat: no-repeat;
+
+
+}
+.img2{
+	background-image: url(../images/dental-implant.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 25px;
+	background-size: contain;background-position: center;
+
+background-repeat: no-repeat;
+}
+
+.img3{
+	background-image: url(../images/image17.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+.img4{
+	background-image: url(../images/tooth-whitening.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+.img5{
+	background-image: url(../images/calculus.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+.img6{
+	background-image: url(../images/tooth-extraction.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+.img7{
+	background-image: url(../images/calculus.png);
+	border-radius: 50%;
+height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+.img8{
+	background-image: url(../images/infection.png);
+	border-radius: 50%;
+	height: 60px;width: 60px;margin: auto;margin-top: 20px;
+	background-size: contain;
+
+background-repeat: no-repeat;
+}
+
+
+
+
+.text2{
+	margin: auto;font-size: 17px;font-weight: 900;transform: scaleY(1.5);word-spacing:  4px;letter-spacing: 1px;
+
+}
+
+.txt1{font-size: 12px;
+	width: 90%;margin: auto;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

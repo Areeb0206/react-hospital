@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.sec2{clip-path: polygon(0 10%, 100% 0, 100% 60%, 100% 100%, 100% 94%, 0 100%, 0 0);clip-path: polygon(0 19%, 15% 0, 100% 0, 100% 79%, 82% 100%, 0 100%);	
+height: 100vh;position: relative;
+margin-top: 60px;
+	background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+
+}
+.section2 .section2clip1{	clip-path: circle(44.2% at 20% -10%);
+
+ z-index: 3;
+
+	position: absolute;top: 0;
+	left: 0;
+	width: 500px ;height:350px;background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+
+}
+.bottom{
+	padding: 30px;
+}
+.section2{height: 90vh;position: relative;
+	width: 89%;background: white;box-shadow: 0px 30px 40px rgba(0,0,0,0.6);
+	margin: auto;
+	display: grid;grid-template-rows: 30% 70%;
+}
+.leftleft{
+
+}
+.leftleft h1{font-weight: 900;
+	font-size: 25px;font-family: 'jura', sans-serif;word-spacing: 10px;
+}
+.leftleft h2{
+	font-size: 19px;line-height: 29px;
+}
+
+.leftbottom h1{font-weight:900;word-spacing: 10px;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.leftbottom h2{
+	font-size: 19px;line-height: 29px;
+}
+
+.rightright h1{font-weight:900;word-spacing: 10px;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.rightright h2{
+
+	font-size: 19px;line-height: 29px;
+}
+
+
+
+.rightbottomright h1{font-weight: 900;word-spacing: 10px;
+	
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.rightbottomright h2{
+	font-size: 19px;line-height: 29px;}
+.mid .img{
+	background-image: url(../images/image12.png);
+	width: 100%;height: 250px; background-size: cover;background-repeat: no-repeat;
+}
+.section2 .top{
+	text-align: center;font-size: 48px;font-weight: 100;color: rgb(8,238,142);
+	font-family: 'jura', sans-serif;
+
+letter-spacing: 2px;word-spacing: 10px;
+}
+.section2 .bottom{
+	display: grid;grid-template-columns: 33% 28% 49%;grid-gap: 30px
+}
+
+.bottom .left{
+	display: grid;grid-template-rows: 50% 50%;
+}
+.bottom .right{
+width: 70%;
+	display: grid;grid-template-rows: 50% 50%
+}
+.lefttop,.leftbottom,.righttop,.rightbottom{grid-gap: 30px;
+	display: flex;
+}
+.leftbottomright i{font-size: 35px;margin-top: 10px;
+	color: rgb(8,238,142);
+}
+.leftright i{font-size: 35px;margin-top: 20px;
+color: rgb(8,238,142);
+}
+.rightleft i{opacity: 0.7;color: rgb(8,238,142);
+	font-size: 35px;margin-top: 10px;
+}
+.rightbottomleft i{opacity: 0.7;color: rgb(8,238,142);
+	font-size: 40px ;margin-top:0px;
+}
+
+
+
+
+
+.section2clip2{clip-path: circle(33.2% at 100% 86%);	background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+width: 500px;height: 500px;
+position: absolute;right: 0;
+bottom: 0;
+
+}
+
+
+.top{
+	margin-top: 40px;
+}
+
+
+
+
+
+
+
+@media all and (max-width: 425px)
+{
+
+
+
+
+.section2clip2{clip-path: circle(33.2% at 100% 86%);	background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+width: 250px;height:260px;
+position: absolute;right: 0;
+bottom: 0;
+
+}
+
+
+
+
+.sec2{clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+height: auto;position: relative;
+width: 100%;margin-top: 80px;
+	background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+
+}
+.section2 .section2clip1{	clip-path: circle(74.2% at 4% 0);
+
+ z-index: 3;
+
+	position: absolute;top: 0;
+	left: 0;
+	width: 100px ;height:150px;background: rgb(130,132,227);
+background: linear-gradient(90deg, rgba(130,132,227,0.3422177775522296) 25%, rgba(86,84,142,0.2439031708106566) 58%, rgba(51,47,75,0.2860380022713308) 92%);
+
+}
+
+.section2{height: auto;position: relative;
+	width: 100%;background: white;box-shadow: 0px 30px 40px rgba(0,0,0,0.6);
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	grid-gap: 20px;
+}
+.leftleft{
+
+}
+.leftleft h1{font-weight: 100;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.leftleft h2{
+	font-size: 15px;line-height: 22px;word-spacing: 3px;
+}
+
+.leftbottom h1{font-weight: 100;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.leftbottom h2{
+	font-size: 15px;line-height: 22px;word-spacing: 3px;
+}
+
+.left{
+	width: 100%;display: flex;flex-direction: column;grid-gap: 20px;
+
+}
+
+
+.section2 .top{width: 80%;
+	margin: auto;
+	font-size: 30px;font-weight: 100;color: rgb(8,238,142);
+	font-family: 'jura', sans-serif;position: relative;top: 20px;
+}
+.section2 .bottom{
+	display: flex;flex-direction: column;
+	grid-gap: 50px
+}
+
+.bottom .left{
+	display: flex;flex-direction: column;
+}
+.lefttop,.leftbottom{grid-gap: 20px;
+	display: flex;width: 100%;
+	margin: auto;flex-direction: column-reverse;
+}
+.leftbottomright i{font-size: 35px;margin-top: 10px;
+	color: rgb(8,238,142);
+}
+.leftright i{font-size: 35px;margin-top: 20px;
+color: rgb(8,238,142);
+}
+
+
+
+
+.rightleft i{opacity: 0.7;color: rgb(8,238,142);
+	font-size: 35px;margin-top: 10px;
+}
+.rightbottomleft i{opacity: 0.7;color: rgb(8,238,142);
+	font-size: 40px ;margin-top:0px;
+}
+
+.bottom .right{	width: 100%;
+}
+.right{display: flex;flex-direction: column;grid-gap: 10px;
+
+}
+.rightright h1{font-weight: 100;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.rightright h2{
+	font-size: 15px;line-height: 22px;word-spacing: 3px;
+}
+
+
+
+.rightbottomright h1{font-weight: 100;
+	font-size: 25px;font-family: 'jura', sans-serif;
+}
+.rightbottomright h2{
+	font-size: 15px;line-height: 22px;word-spacing: 3px;
+}
+
+.bottom{
+	display: block;
+}
+
+
+
+.righttop{
+	display: flex;flex-direction: column;
+}
+
+.rightbottom{
+	display: flex;flex-direction: column;
+}
+
+
+
+
+.mid .img{
+	background-image: url(../images/image12.png);
+	width: 100%;height: 200px; background-size: contain;background-repeat: no-repeat;
+}
+
+}
